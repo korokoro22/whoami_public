@@ -1,4 +1,6 @@
 # Siapa saya
 
-Nama : Andi Muhammad Rezky M
-Instagram : [Maaf ig saya itu privasi saya](https://www.instagram.com/andirzy/).
+Nama : Andi Muhammad Rezky M <br />
+_Instagram : @andirzy_ <br />
+**Age** : 2300 Tahun <br />
+Alamat : <ins>Jln. bayern munchen</ins>
