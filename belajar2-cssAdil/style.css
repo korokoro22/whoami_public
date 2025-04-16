@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/black-hexagonal-grid-line-pattern-bold-industrial-wallpaper_1017-43002.jpg?t=st=1744822826~exp=1744826426~hmac=1b8436a3c9a35e76ee1bb00b94fc01242241db3c6ca832fba8917c6531f44c2e&w=1380);
+}
+
+.div-satu {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.div-satu h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+.div-satu p {
+    text-indent: 100px;
+    text-align: justify;
+}
+
+.div-dua {
+    background-color: white;
+    font-family: sans-serif;
+}
+
+.div-dua p {
+    text-align: center;
+    line-height: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.div-tiga {
+    background-color: aquamarine;
+}
+
+.div-tiga p, .link-ig, .link-github {
+    font-weight: bold;
+}
+
+.div-tiga p {
+    text-transform:uppercase;
+}
+
+.div-tiga .link-ig {
+    color: red;
+}
+
+.div-tiga .link-github {
+    color: green;
+    text-decoration: none;
+}
